@@ -1,6 +1,16 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator。
 
+20240305：
+
+PN532Killer-V1.0-20240304-CH343P.bin, it can run on NFE Emulator.
+
+Software--MifareOne Tool：nested authentication attack、HardNested authentication attack
+
+Software-PN532Killer Tool-Sniffer：sniffer for decrypt Mifare 1 tag(mfkey64&mfkey32v2)
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 PN532Killer，模拟PN532读写14443A/B卡片，同时也支持读写15693卡片；
 
 PN532Killer，可以用于模拟14443A卡片(Mifare&Ntag)、15693卡片；
