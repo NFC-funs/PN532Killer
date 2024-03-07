@@ -1,9 +1,9 @@
 # PN532Killer
-PN532Killer, it's a PN532 Emulator。
+PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
 20240305：
 
-PN532Killer-V1.0-20240304-CH343P.bin, it can run on NFE Emulator.
+PN532Killer-V1.0-20240304-CH343P.bin, it can run on NFC Emulator.
 
 Software--MifareOne Tool：nested authentication attack、HardNested authentication attack
 
