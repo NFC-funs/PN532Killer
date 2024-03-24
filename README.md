@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20240324：
+
+PN532Killer-V1.0-20240324-CH343P.bin, it can run on NFC Emulator&PN532Killer.
+
+Collect nonce at 2X speed than PN532 at baud rate 460800(libnfc limits it).
+
 20240305：
 
 PN532Killer-V1.0-20240304-CH343P.bin, it can run on NFC Emulator.
