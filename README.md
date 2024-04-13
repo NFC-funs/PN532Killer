@@ -1,6 +1,10 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20240412：
+
+PN532Killer-V1.0-20240412-CH343P.bin, Improve the detection limits to increase read&write distance and reduce the BER.
+
 20240324：
 
 PN532Killer-V1.0-20240324-CH343P.bin, it can run on NFC Emulator&PN532Killer.
