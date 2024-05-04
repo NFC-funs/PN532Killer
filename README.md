@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20240504:
+
+PN532Killer-V1.0-20240504-CH343P.bin, Add support for ISO15693 read&write&emulate
+
+Android App: MTools -- https://play.google.com/store/apps/details?id=tk.toolkeys.mtools&hl=en&gl=US
+
 20240412：
 
 PN532Killer-V1.0-20240412-CH343P.bin, Improve the detection limits to increase read&write distance and reduce the BER.
