@@ -1,6 +1,10 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20240519:
+
+PN532Killer-V1.0-20240511-CH343P.bin, the working mode can be set to Reader mode, Emulator mode, Sniffer mode by UART Command 
+
 20240504:
 
 PN532Killer-V1.0-20240504-CH343P.bin, Add support for ISO15693 read&write&emulate
