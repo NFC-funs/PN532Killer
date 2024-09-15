@@ -1,6 +1,18 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20240915:
+
+PN532Killer-V1.0-20240903.bin, support BLE&LF Extension
+
+Support BLE and APP MTools BLE
+
+Support Read&Emulate EM4100
+
+Support Read ID(Mifare 1 & EM4100) Save to Slot
+
+App: MTools BLE -- https://apps.apple.com/cn/app/mtools-ble/id1531345398
+
 20240519:
 
 PN532Killer-V1.0-20240511-CH343P.bin, the working mode can be set to Reader mode, Emulator mode, Sniffer mode by UART Command 
