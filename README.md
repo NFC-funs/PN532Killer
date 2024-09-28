@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20240928:
+
+PN532Killer-V1.0-20240925.bin, Forced revert to the USB-UART is supported
+
+Press and hold “Enter” key for 5 seconds, the red led flash on, then release key.
+
 20240915:
 
 PN532Killer-V1.0-20240903.bin, support BLE&LF Extension
