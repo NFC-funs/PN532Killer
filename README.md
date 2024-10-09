@@ -1,6 +1,10 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20241009:
+
+PN532Killer-V1.0-20241005.bin, Bug of read ISO15693 emulator multiple blocks fixed, and support TagInfo App.
+
 20240928:
 
 PN532Killer-V1.0-20240925.bin, Forced revert to the USB-UART is supported
