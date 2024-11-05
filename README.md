@@ -1,6 +1,16 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20241105:
+
+PN532Killer-V1.0-20241030.bin
+
+Support 15693 InCommunicateThru:
+Change the block size of Gen2 ISO15693 Tag
+Change UID of Gen2 ISO15693 Tag
+
+Support Mifare-1 7B read&write
+
 20241009:
 
 PN532Killer-V1.0-20241005.bin, Bug of read ISO15693 emulator multiple blocks fixed, and support TagInfo App.
