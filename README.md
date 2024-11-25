@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20241125:
+
+PN532Killer-V1.0-20241123.bin
+
+Support staticnested attack:
+
 20241105:
 
 PN532Killer-V1.0-20241030.bin
