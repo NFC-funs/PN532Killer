@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20250209:
+
+PN532Killer-V1.0-20250204A.bin
+
+Emulator support Mifare-1 7B mode and 15693 two subcarriers mode
+
 20241125:
 
 PN532Killer-V1.0-20241123.bin
