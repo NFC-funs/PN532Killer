@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20250407:
+
+PN532Killer-V1.0-20250406.bin
+
+Support automatic switch the host interfaces -- USB/BLE
+
 20250209:
 
 PN532Killer-V1.0-20250204A.bin
