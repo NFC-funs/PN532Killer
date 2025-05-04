@@ -1,6 +1,14 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20250504:
+
+PN532Killer-V1.0-20250425.bin
+
+Support 15693 UID save to slot;
+
+Support set UART baudrate up to 12M;
+
 20250407:
 
 PN532Killer-V1.0-20250406.bin
