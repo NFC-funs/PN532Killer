@@ -1,6 +1,12 @@
 # PN532Killer
 PN532Killer, it's a PN532 Emulator,NFC Emulator,Sniffer.
 
+20250608:
+
+PN532Killer-V1.0-20250528.bin
+
+Added Ntag emulator;
+
 20250504:
 
 PN532Killer-V1.0-20250425.bin
